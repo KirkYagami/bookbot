@@ -1,3 +1,4 @@
 # bookbot
 
-first cli project!
+Boot.Dev
+
